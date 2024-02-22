@@ -1,4 +1,4 @@
-package com.cbfacademy.foodcatalogue.subclassfooditem.exception;
+/*package com.cbfacademy.foodcatalogue.subclassfooditem.advice.exception;
 
 import java.util.List;
 
@@ -43,3 +43,4 @@ public class ErrorMessage { //Class to send back consistent error response forma
         return new ErrorMessage(statusCode, message);
     }
 }
+*/

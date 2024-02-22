@@ -1,3 +1,4 @@
+/* 
 // Create the Error Message class (optional)
 package com.cbfacademy.foodcatalogue.subclassfooditem.advice;
 
@@ -20,3 +21,4 @@ public class ErrorMessage { // Class to send back consistent error response form
     }
 
 }
+*/

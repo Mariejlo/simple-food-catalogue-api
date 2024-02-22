@@ -1,14 +1,12 @@
+/*
 package com.cbfacademy.foodcatalogue.subclassfooditem.service;
 
 import java.io.IOException;
 import java.util.List;
 
-import com.cbfacademy.foodcatalogue.subclassfooditem.exception.ResourceNotFoundException;
+import com.cbfacademy.foodcatalogue.subclassfooditem.advice.exception.ResourceNotFoundException;
 import com.cbfacademy.foodcatalogue.subclassfooditem.model.FoodItem;
-/**
- * Service interface for managing FoodItems.
- * This interface defines the contract for FoodItem-related operations.
- */
+ 
 public interface FoodItemService {
 
     // Adds a new FoodItem to the database
@@ -30,3 +28,4 @@ public interface FoodItemService {
     double calculateTotalCalories(List<FoodItem> foodItems);
 
 }
+*/

@@ -1,5 +1,5 @@
 package com.cbfacademy.foodcatalogue.subclassfooditem.model;
 
-public class FoodItem {
+public class Meat {
     
 }

@@ -1,4 +1,5 @@
-package com.cbfacademy.foodcatalogue.subclassfooditem.exception;
+/*
+package com.cbfacademy.foodcatalogue.subclassfooditem.advice.exception;
 
 import org.springframework.http.HttpStatus;
 
@@ -20,3 +21,4 @@ public class ResourceNotFoundException extends RuntimeException { // Unchecked e
     }
 
 }
+*/

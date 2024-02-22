@@ -1,3 +1,4 @@
+/*
 package com.cbfacademy.foodcatalogue.subclassfooditem.advice;
 
 import org.springframework.web.bind.MethodArgumentNotValidException;
@@ -42,3 +43,4 @@ public class GlobalExceptionHandler {
     }
 
 }
+*/

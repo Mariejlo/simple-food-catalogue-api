@@ -1,13 +1,10 @@
-package com.cbfacademy.apiassessment.service;
+/*package com.cbfacademy.apiassessment.service;
 
 import org.junit.jupiter.api.Test;
 import com.cbfacademy.foodcatalogue.subclassfooditem.model.FoodItem;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-/**
-		 * This class tests the functionalities of the FoodItem model,
-		 * especially the calculateTotalCalories method.
-		 */
+
         public class FoodItemModelTest {
 		
             @Test
@@ -33,5 +30,5 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
             }
     
         }
-    
+    */
     

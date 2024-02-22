@@ -1,0 +1,11 @@
+{
+  "name": "java-api-assessment",
+  "version": "1.0.0",
+  "description": "Dive into the world of API development using Java and SpringBoot. We're handing over a skeleton codebase; your challenge is to shape a top-notch API from it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

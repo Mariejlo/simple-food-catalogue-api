@@ -64,7 +64,7 @@ Alternatively, to start the API from the terminal, run the following command:
 mvn spring-boot:run
 ```
 
-## **Initialise your Spring Boot Project**
+## **Initialise your Spring Boot Project** //Remove this part
 - **Spring Initializr**: to generate your project skeleton. Choose Java as the language, Maven as the build tool, and add dependencies such as Spring Web and H2 Database for testing purposes.
 
 ## **Project Structure**

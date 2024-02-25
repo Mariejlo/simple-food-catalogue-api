@@ -2,7 +2,6 @@ package com.cbfacademy.foodcatalogue.subclassfooditem.model;
 
 import lombok.Builder;
 import lombok.Data;
-import lombok.Value;
 
  
 @Builder

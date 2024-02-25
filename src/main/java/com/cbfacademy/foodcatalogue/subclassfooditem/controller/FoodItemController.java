@@ -1,9 +1,5 @@
 package com.cbfacademy.foodcatalogue.subclassfooditem.controller;
 
-import com.cbfacademy.foodcatalogue.subclassfooditem.service.FoodItemServiceImpl;
-
-import org.springframework.beans.factory.annotation.Autowired;
-
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
@@ -17,9 +13,6 @@ import org.springframework.web.bind.annotation.*;
 @CrossOrigin // This enables CORS for all endpoints in this controller
 public class FoodItemController {
     // Class body
-
-    @Autowired // Service injection
-    private FoodItemServiceImpl foodItemService;
 
     @GetMapping("/fooditems") // Fetches all the food items from the database (REVISION NEEDED)
     public String getAllFoodItems() {
